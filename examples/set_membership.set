@@ -1,0 +1,2 @@
+let set s be { x : x > 3 } .
+show 5 @ s .

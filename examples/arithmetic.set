@@ -1,0 +1,3 @@
+let int a be 3 .
+let int b be 4 .
+show a + b .
